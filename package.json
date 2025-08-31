@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pdflatex": "^0.0.1",
+    "texlive": "^1.2.0"
+  }
+}
